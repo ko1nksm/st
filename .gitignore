@@ -3,3 +3,5 @@
 *.dll
 *.exe
 /st
+/html/st.js
+/html/st.wasm
